@@ -1,0 +1,63 @@
+
+#page_header {
+   background-color:#365899;
+   width: 850px; 
+   height: 350px;
+   margin: auto;
+   color: whitesmoke;
+}
+#pagename {
+   position: relative;
+   line-height: 30px;
+   top: 80%;
+   left: 25%;
+   margin-bottom: 1px;
+}
+#website {
+   position: relative;
+   line-height: 30px;
+   top: 78%;
+   left: 25%;
+   margin-top: 10px;
+}
+#nav_bar {
+   width: 850px;
+   margin: auto;
+   background-color: whitesmoke;
+   height: 40px;
+   
+}
+body {
+   background-color: #e9eaed;
+   font-family: Arial, Helvetica, sans-serif; 
+}
+#profile_pic{
+  width: 175px;
+  height: 175px;
+  background-color:#365899;
+  margin: 0%;
+  left:25px;
+  top: 27%;
+  bottom:0;
+  right:0;
+  float: left;
+  position: relative;
+  border: 1px solid black;
+}
+.nav_icon{
+   left: 25%;
+   top: 10px;
+   position: relative;
+   display: inline-block;
+   vertical-align: middle;
+   border-right: 1px dotted gray;
+   padding-right: 10px;
+   padding-left: 10px;
+}
+a {
+   color: black;
+   text-decoration: none;
+}
+a:active {
+   font-weight: bold;
+}
